@@ -1,6 +1,6 @@
 ### RENTAL AGREEMENT
 
-This Rental Agreement ("Agreement") is entered into on this \***\*\_\_\_\_\*\*** day of \***\*\\\_\_\_\*\***, 2023, between:
+This Rental Agreement ("Agreement") is entered into on this \***\*\_\_\_\_\*\*** day of \***\*\\\\\_\_\_\*\***, 2023, between:
 
 #### Mr. Noel Watson
 
@@ -31,7 +31,7 @@ Rent:
 
    ### Security/Depreciation Cost:
 
-1. The Tenant shall pay the Landlord a non-refundable amount equal to 2 months' rent, totaling J$400,000.00, in advance to cover facility/depreciation cost to occupy the Premises. This amount will also serve as security for the proper use and maintenance of the Premises and may also be used for any damages or expenses incurred by the Landlord due to the Tenant's use of the Premises.
+1. The Tenant shall pay the Landlord a non-refundable amount equal to 2 months' rent, totaling J$400,000.00, in advance to cover facility/depreciation cost to occupy the Premises. This amount may also serve as security for the proper use and maintenance of the Premises and may also be used for any damages or expenses incurred by the Landlord due to the Tenant's use of the Premises.
 
    ### Use of Premises:
 
