@@ -1,15 +1,17 @@
-RENTAL AGREEMENT
+### RENTAL AGREEMENT
 
-This Rental Agreement ("Agreement") is entered into on this \***\*\_\_\*\*** day of \***\*\_\_\*\***, 20, between:
+This Rental Agreement ("Agreement") is entered into on this \***\*\_\_\*\*** day of \***\*\_\_\*\***, 2023, between:
 
-Mr. Noel Watson
+#### Mr. Noel Watson
+
 (Hereinafter referred to as the "Landlord")
-Address: [Address of Landlord]
-Phone: [Phone Number of Landlord]
+Address: 10 Robinson Road
+Phone: 876-825-9393
 
 And
 
-Mr. Horace Robinson
+#### Mr. Horace Robinson
+
 (Doing business under the trade name "Boyzie's Solutions")
 (Hereinafter referred to as the "Tenant")
 Address: [Address of Tenant]
@@ -17,7 +19,8 @@ Phone: [Phone Number of Tenant]
 
 Collectively referred to as the "Parties."
 
-Premises:
+#### Premises:
+
 The Landlord agrees to rent out 60% of the factory premises located at 10 1/2 Robinson Road, Kingston, Jamaica (hereinafter referred to as the "Premises"), to the Tenant for the purpose of manufacturing furniture.
 
 Term:
